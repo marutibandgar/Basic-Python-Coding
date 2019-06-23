@@ -1,4 +1,4 @@
-#Addition of two Number in Python. Number Accept from User
+# Addition of two Number in Python. Number Accept from User
 
 num1 = int(input("Enter the First Number:"))
 
